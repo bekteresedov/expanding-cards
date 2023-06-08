@@ -12,6 +12,7 @@ body {
 .items {
   width: 90%;
   display: flex;
+  justify-content: center;
   gap: 20px;
 }
 
